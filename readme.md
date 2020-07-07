@@ -6,7 +6,7 @@
 * 运行环境：MacOs10.15
 * 使用的库：matplotlib、numpy、sci-py
 
-#### 2、How to
+#### 2、How to use
 
 * 建立figs文件夹以保存图片
 * 程序说明
